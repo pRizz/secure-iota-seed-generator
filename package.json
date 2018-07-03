@@ -1,0 +1,23 @@
+{
+  "name": "@prizz/iota-seed-generator",
+  "version": "1.0.0",
+  "description": "Securely generates IOTA seeds",
+  "main": "index.js",
+  "bin": "bin/cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pRizz/iota-seed-generator.git"
+  },
+  "keywords": [
+    "IOTA"
+  ],
+  "author": "Peter Ryszkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pRizz/iota-seed-generator/issues"
+  },
+  "homepage": "https://github.com/pRizz/iota-seed-generator#readme"
+}

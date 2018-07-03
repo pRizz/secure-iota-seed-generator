@@ -1,17 +1,19 @@
 # iota-seed-generator
-Securely generates IOTA seeds
+Securely generates IOTA seeds. Utilizes official secure random apis. Has no external dependencies.
 
-## Usage
+Works in code and the command line.
+
+## Code Usage
 
 ```javascript
-const seedGenerator = require('@prizz/iota-seed-geenrator')
-
+const seedGenerator = require('secure-iota-seed-generator')
 const seed = seedGenerator.generateSeed()
 ```
 
 ## Command Line Usage
 
 ```bash
-npm i -g @prizz/iota-seed-generator
-
+> npm i -g secure-iota-seed-generator
+> secure-iota-seed-generator
+SOMESUPERSECURESEED99999999999999999999999999999999999999999999999999999999999999
 ```

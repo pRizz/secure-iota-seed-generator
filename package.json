@@ -1,9 +1,9 @@
 {
   "name": "secure-iota-seed-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Securely generates IOTA seeds",
   "main": "index.js",
-  "bin": "bin/cli",
+  "bin": "bin/cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

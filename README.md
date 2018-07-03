@@ -1,4 +1,4 @@
-# iota-seed-generator
+# secure-iota-seed-generator
 Securely generates IOTA seeds. Utilizes official secure random apis. Has no external dependencies.
 
 Works in code and the command line.

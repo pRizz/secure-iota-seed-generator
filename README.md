@@ -1,4 +1,7 @@
 # secure-iota-seed-generator
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/pRizz/secure-iota-seed-generator.svg)](https://greenkeeper.io/)
+
 Securely generates IOTA seeds. Utilizes official secure random apis. Has no external dependencies.
 
 Works in code and the command line.
